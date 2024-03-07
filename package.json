@@ -1,0 +1,7 @@
+{
+  "name": "vite-scss-bug",
+  "workspaces": [
+    "app",
+    "package"
+  ]
+}
